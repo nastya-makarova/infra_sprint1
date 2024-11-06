@@ -1,0 +1,5 @@
+IP: 62.84.120.94;
+name_taski: https://yataski.hopto.org;
+name_kittygram: https://yakittygram.ddns.net;
+login: nastya;
+password: admin2312;
